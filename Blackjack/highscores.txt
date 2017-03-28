@@ -1,0 +1,7 @@
+  ---{ HighScores }---
+   1.Name   Score:###
+   2.Name   Score:###
+   3.Name   Score:###
+   4.Name   Score:###
+   5.Name   Score:###
+  --------------------
